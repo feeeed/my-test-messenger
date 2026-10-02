@@ -1,3 +1,11 @@
+Запуск - 
+git clone https://github.com/feeeed/my-test-messenger.git
+cd test-app-234asd
+pnpm i / npm i
+pnpm dev / npm dev
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
